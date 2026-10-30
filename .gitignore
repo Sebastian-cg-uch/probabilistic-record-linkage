@@ -1,0 +1,15 @@
+# --- Never commit real data ---
+data/real/
+data/raw/
+*.xlsx
+*.xls
+*.parquet
+*.dta
+*.sav
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
