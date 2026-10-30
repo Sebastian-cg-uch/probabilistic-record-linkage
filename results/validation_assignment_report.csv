@@ -1,0 +1,9 @@
+,value
+discharges_evaluated,6829.0
+discharges_with_person_in_registry,5403.0
+correct_assignment,4775.0
+wrong_assignment,9.0
+missed_assignment,623.0
+correctly_unassigned,1422.0
+assignment_precision,0.9981
+assignment_coverage,0.8838
